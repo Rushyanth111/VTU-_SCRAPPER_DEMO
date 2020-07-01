@@ -6,3 +6,4 @@ beautifulsoup4~=4.8.2
 Pillow~=7.0.0
 Wand~=0.5.9
 pandas~=1.0.3
+aiohttp-cors
